@@ -1,1 +1,1 @@
-# MITRE_ATT-CK_PT_Findings
+# MITRE_ATTACK_PT_Findings
